@@ -1,0 +1,24 @@
+tarea martes logica 4 de julio 
+
+teorica 
+1 Que es una clave SSH en git y como configurarla en nuestros equipos?
+2 que es una libreria o una biblioteca en programacion? de ejemplos
+3 Que es una variable en programacion? de ejemplos 
+4 Que es la identacion y por que se usa en programacion 
+5 Que es el diseño web de ejemplos 
+6 Que es el "User Interface Design" "UI design"? de ejemplos 
+7 Que es el "User Experience Design" "UX design"? de ejemplos
+8 Que es la "Search Engine Optimization"? de ejemplos.
+9 Que es el "Marckup lenguaje"? de ejemplos
+10 Que es la "Web Engineering"? de ejemplos
+11 Que es la "Usability" en el web "development"? de ejemplos
+12 Que es la "web accesibility" en el "web deveploment"? de ejemplos
+13 Que es HTML5 para que se usa y de ejemplos de su codificacion
+14 Que es CSS3, para que se usa y de ejemplos de su codificacion
+15 Que es Javascript, para que se usa y de ejemplos de su codificacion 
+
+Practica 
+1 Realice el ejercicio "Compare the tiplets" del portal "HackerRank"
+2 Instale en su computadora personal los programas de "Visual Studio Code" y "Git"
+3 Ejecurte el comando en su CLI (Command Line Interface) llamado "Git Bash" el comando "Git clone" de su repositorio llamado "Formulario_basico_<nombre>_03jul23" y realice un formulario en lenguaje de etiquetado HTML5 con 7 diferentes tipos de "inputs type", si lo desea puede agregar estilos.
+4 En el apartado pratica crear un archivo llamado practica_2.c donde debera hallar la solucion al siguiente enunciado: 
