@@ -2,23 +2,94 @@ tarea martes logica 4 de julio
 
 teorica 
 1 Que es una clave SSH en git y como configurarla en nuestros equipos?
-2 que es una libreria o una biblioteca en programacion? de ejemplos
-3 Que es una variable en programacion? de ejemplos 
+
+ Una clave SSH es una credencial de acceso para el protocolo de red SSH 
+ (Secure Shell). Este protocolo de red segura con autenticación y cifrado
+ se utiliza para la comunicación remota entre máquinas en una red abierta
+  no segura. 
+ 
+3 Que es una variable en programacion? de ejemplos
+Una variable es donde se almacenan y se recuperan los datos de un programa.
+ Así de simple. En programación, la utilizamos para guardar datos y estados, 
+ asignar ciertos valores de variables a otras, representar valores de expresiones 
+ matemáticas y mostrar valores por pantallas.  ejemplo: Int: guarda números enteros 
+ y positivos. 
+
 4 Que es la identacion y por que se usa en programacion 
+Se llama indentación de código al hecho de utilizar sangrado 
+(mover ligeramente hacia la derecha) las líneas de código, facilitando así la lectura, 
+e indicando visualmente si nos encontramos en el interior de una estructura concreta,
+ en el programa principal, etc...
+
 5 Que es el diseño web de ejemplos 
+El diseño web es un área enfocada en el desarrollo de interfaces digitales, como el diseño de sitios
+ y aplicaciones para web. Para ello, los diseñadores web crean las páginas utilizando lenguajes de
+  marcado como HTML.
+
+
 6 Que es el "User Interface Design" "UI design"? de ejemplos 
+Un diseñador de UI es alguien que diseña la interfaz gráfica de usuario de una aplicación,
+ sitio web o dispositivo con el que interactúa un ser humano. Por ejemplo, cuando accede a 
+ un sitio web o una aplicación en su teléfono, generalmente hay una interfaz gráfica que le
+  permite navegar y lograr su objetivo. Los diseñadores de UI crean y optimizan los elementos 
+  interactivos que facilitan sus acciones, como botones, menús, migas de pan, barras de progreso y acordeones.
+
 7 Que es el "User Experience Design" "UX design"? de ejemplos
-8 Que es la "Search Engine Optimization"? de ejemplos.
+se refiere a la combinación de una atractiva interfaz de usuario con la funcionalidad, convincente y ajustada 
+a su audiencia, de una aplicación o una web.ejemplo: . Spotify
+
+
+8 Que es la "Search Engine Optimization"? de ejemplos.'
+SEO significa Search Engine Optimization (Optimización para motores de búsqueda). Se trata
+ del conjunto de estrategias y técnicas de optimización que se hacen en una página web para
+  que aparezca orgánicamente en buscadores de Internet como Google, Yahoo o Youtube
+
 9 Que es el "Marckup lenguaje"? de ejemplos
+lenguaje de marcas , sistema estándar de codificación de texto que consiste en un conjunto 
+de símbolos insertados en un documento de texto para controlar su estructura, formato o la relación
+ entre sus partes. Los lenguajes de marcado más utilizados sonSGML (Lenguaje de marcado generalizado estándar)
+ ,HTML (lenguaje de marcado de hipertexto)
+
 10 Que es la "Web Engineering"? de ejemplos
+La ingeniería web es la aplicación de metodologías sistemáticas, disciplinadas y cuantificables
+ al desarrollo eficiente, operación y evolución de aplicaciones de alta calidad en la World Wide Web.​
+ejemplo: UML-Based Web Engineering
+
 11 Que es la "Usability" en el web "development"? de ejemplos
+La usabilidad web se refiere a los atributos que hacen que un sitio web sea fácil de usar para los visitantes.
+ Se enfoca en aspectos como el diseño gráfico, presentación y organización de la información, y en el
+  funcionamiento mismo. El objetivo principal es que el usuario navegue con un esfuerzo y tiempo mínimos.
+
 12 Que es la "web accesibility" en el "web deveploment"? de ejemplos
+La accesibilidad web tiene como objetivo lograr que las páginas web sean utilizables por el máximo número 
+de personas, independientemente de sus conocimientos o capacidades personales e independientemente de las 
+características técnicas del equipo utilizado para acceder a la Web.
+
 13 Que es HTML5 para que se usa y de ejemplos de su codificacion
+HTML5 (HyperText Markup Language, versión 5) es la quinta revisión del lenguaje HTML y permite definir los 
+nuevos estándares de desarrollo web, modificando el código existente para solucionar problemas y actualizándolo
+ a las nuevas necesidades de hoy en día.
+
+HTML5 nos permite crear la estructura de una página web, por así decirlo, su esqueleto, donde vamos a incorporar
+ posteriormente, imágenes, textos, vídeos y todo tipo de material multimedia de forma que se pueda visualizar 
+ correctamente.
+
 14 Que es CSS3, para que se usa y de ejemplos de su codificacion
+Cascading Style Sheets (CSS) que en español se traduce como “hojas de estilo en cascada”, es un lenguaje de 
+programación que permite crear y realizar cambios en un documento HTML de forma rápida y sencilla.
+
+En otras palabras, se trata de un lenguaje para el manejo del diseño, cambios, mejoras, presentación y 
+personalización de páginas web.
+
 15 Que es Javascript, para que se usa y de ejemplos de su codificacion 
+JavaScript es un lenguaje de programación que los desarrolladores utilizan para hacer páginas web interactivas.
+ Desde actualizar fuentes de redes sociales a mostrar animaciones y mapas interactivos, las funciones de
+  JavaScript pueden mejorar la experiencia del usuario de un sitio web.
+
 
 Practica 
 1 Realice el ejercicio "Compare the tiplets" del portal "HackerRank"
 2 Instale en su computadora personal los programas de "Visual Studio Code" y "Git"
-3 Ejecurte el comando en su CLI (Command Line Interface) llamado "Git Bash" el comando "Git clone" de su repositorio llamado "Formulario_basico_<nombre>_03jul23" y realice un formulario en lenguaje de etiquetado HTML5 con 7 diferentes tipos de "inputs type", si lo desea puede agregar estilos.
+3 Ejecurte el comando en su CLI (Command Line Interface) llamado "Git Bash" el comando "Git clone" de su repositorio llamado
+ "Formulario_basico_<nombre>_03jul23" y realice un formulario en lenguaje de etiquetado HTML5 con 7 diferentes tipos de "inputs type", si lo desea puede agregar estilos.
 4 En el apartado pratica crear un archivo llamado practica_2.c donde debera hallar la solucion al siguiente enunciado: 
