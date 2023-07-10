@@ -3,21 +3,22 @@
 ## teórica
 
 1. Qué es `MongoDB` en `Web Development` y para qué sirve?, de ejemplos.
-MongoDB es un sistema de base de datos NoSQL orientado a documentos de código abierto y escrito en C++, que en lugar de guardar los datos en tablas lo hace en estructuras de datos BSON (similar a JSON) con un esquema dinámico. Ejemplo:  ![Alt text](image.png)
+MongoDB es un sistema de base de datos NoSQL orientado a documentos de código abierto y escrito en C++, que en lugar de guardar los datos en tablas lo hace en estructuras de datos BSON (similar a JSON) con un esquema dinámico. Ejemplo:
+ ![Alt text](image.png)
 
-2. Qué es `NoSQL` en `Web Development` y para qué sirve?, de ejemplos.
+3. Qué es `NoSQL` en `Web Development` y para qué sirve?, de ejemplos.
 NoSQL se refiere a una base de datos no relacional o no SQL. Una base de datos relacional es un formato de bases de datos muy estructurado basado en una tabla, como MySQL u Oracle. Las bases de datos NoSQL están orientadas a los documentos y le permiten almacenar y recuperar datos en formatos que no sean tablas. Algunas de las plataformas NoSQL más conocidas son MongoDB, Elasticsearch® y Redis®.
 
-3. Qué es `Website wireframed` en `Web Development` y para qué sirve?, de ejemplos.
+4. Qué es `Website wireframed` en `Web Development` y para qué sirve?, de ejemplos.
 Un wireframe es un diagrama visual que esboza el esqueleto de un proyecto o pieza tecnológica. A veces se conoce como esquema de la página o plano de la pantalla y muestra cómo se relacionan los elementos entre sí y cómo están estructurados. . Sirve para definir de forma sencilla y esquemática el contenido y la posición de los distintos bloques del sitio web. ![Alt text](image-1.png)
 
 
 
-4. Qué es `Perl`, para que se usa y de ejemplos de su `codificación`?
+5. Qué es `Perl`, para que se usa y de ejemplos de su `codificación`?
 Perl es un acrónimo de Practical Extracting and Reporting Languaje, que viene a indicar que se trata de un lenguaje de programación muy práctico para extraer información de archivos de texto y generar informes a partir del contendido de los ficheros. ![Alt text](image-2.png)
 
 
-5. Qué es `PHP`, para que se usa y de ejemplos de su `codificación`?
+6. Qué es `PHP`, para que se usa y de ejemplos de su `codificación`?
 PHP es un lenguaje de programación destinado a desarrollar aplicaciones para la web y crear páginas web, favoreciendo la conexión entre los servidores y la interfaz de usuario.
 
 Entre los factores que hicieron que PHP se volviera tan popular, se destaca el hecho de que es de código abierto.
