@@ -49,7 +49,7 @@ Bootstrap es un framework CSS utilizado en aplicaciones front-end — es decir, 
 ![Alt text](image-5.png)
 
 12. Qué es `ReactJs`, para que se usa y de ejemplos de su `codificación`?
-ReactJS es una librería robusta de JavaScript utilizada en el desarrollo de aplicaciones web dinámicas. Hace que la codificación de JavaScript sea más sencilla, mejora el rendimiento y el SEO de tu aplicación, entre otras ventajas. ![Alt text](image-6.png)
+ReactJS es una librería robusta de JavaScript utilizada en el desarrollo de aplicaciones web dinámicas. Hace que la codificación de JavaScript sea más sencilla, mejora el rendimiento y el SEO de tu aplicación, entre otras ventajas. ![Alt 
 
 13. Qué es `EmberJS`, para que se usa y de ejemplos de su `codificación`?
 EmberJS y su marco de aplicación. Se trata de un framework front-end orientado al desarrollo de proyectos de modo ágil y productivo y que puedan ser mantenidos a largo plazo como por ejemplo aplicaciones web o móviles.
