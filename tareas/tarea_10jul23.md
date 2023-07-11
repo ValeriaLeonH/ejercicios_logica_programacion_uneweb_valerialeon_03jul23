@@ -110,22 +110,7 @@ Symfony es un framework diseñado para desarrollar aplicaciones web basado en el
 
 CakePHP es un marco de desarrollo [framework] rápido para PHP, libre, de código abierto. Se trata de una estructura que sirve de base a los programadores para que éstos puedan crear aplicaciones Web. 
 
-create table usuarios(
-
-id mediumint unsigned NOT NULL auto_increment,
-
-login varchar(20) NOT NULL,
-
-email varchar(100) NOT NULL,
-
-data datetime NOT NULL,
-
-password varchar(40) NOT NULL,
-
-primary key(id)
-
-);
-
+![Alt text](image-19.png)
 
 8. Qué es `version control software` en `Web Development` y para qué sirve?, de ejemplos.
 
