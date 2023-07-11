@@ -6,14 +6,7 @@
 
 MySQL es un sistema de bases de datos de Oracle que se utiliza en todo el mundo para gestionar bases de datos. Se basa en el álgebra relacional y se utiliza principalmente para el almacenamiento de datos de diversos servicios web 
 
-Instalar MySQL para RPM
-Acceso a MySQL: mysql -u root -p
-Consultar BBDD existentes: show databases;
-Crear BBDD: create database mibbdd;
-Consultar tablas: show tables;
-Crear tabla: CREATE TABLE mitabla ( ... )
-Insertar datos: INSERT INTO mitabla (...) VALUES (...),(...);
-Salir de MySQL: exit;
+![](image-20.png)
 
 
 2. Qué es `Oracle` en `Web Development` y para qué sirve?, de ejemplos.
@@ -27,17 +20,7 @@ Oracle Fusion Middleware es una plataforma de negocios digital que conecta a las
 
 Microsoft SQL Server es uno de los principales sistemas de gestión de bases de datos relacional del mercado que presta servicio a un amplio abanico de aplicaciones de software destinadas a la inteligencia empresarial y análisis sobre entornos corporativos. Sirve  para almacenar toda la información deseada en bases de datos relacionales, como también para administrar dichos datos sin complicaciones, gracias a su interfaz visual y a las opciones y herramientas
 
-SELECT P1.ProductModelID, 
-       P1.Name
-FROM Production.ProductModel P1
-WHERE ProductModelID IN(3, 4)
-UNION
-SELECT P2.ProductModelID, 
-       P2.Name
-FROM Production.ProductModel P2
-WHERE P2.ProductModelID IN(3, 4)
-ORDER BY P1.Name;
-
+![Alt text](image-21.png)
 
 4. Qué es `framework` en `Web Development` y para qué sirve?, de ejemplos.
 
@@ -49,55 +32,7 @@ Un framework es un esquema o marco de trabajo que ofrece una estructura base par
 
  Zend Framework (ZF) es un framework de código abierto para desarrollar aplicaciones web y servicios web con PHP5. ZF es una implementación que usa código 100% orientado a objetos. La estructura de los componentes de ZF es algo único; cada componente está construido con una baja dependencia de otros componentes. EJEMPLO:
 
-<?php
-namespace Application\Form;
-
-use Zend\Form\Form;
-
-// This form is used for uploading an image file.
-class ImageForm extends Form
-{
-    // Constructor.
-    public function __construct()
-    {
-        // Define form name.
-        parent::__construct('image-form');
-
-        // Set POST method for this form.
-        $this->setAttribute('method', 'post');
-
-        // Set binary content encoding.
-        $this->setAttribute('enctype', 'multipart/form-data');
-
-        $this->addElements();
-    }
-
-    // This method adds elements to form.
-    protected function addElements()
-    {
-        // Add "file" field.
-        $this->add([
-            'type'  => 'file',
-            'name' => 'file',
-            'attributes' => [
-                'id' => 'file'
-            ],
-            'options' => [
-                'label' => 'Image file',
-            ],
-        ]);
-
-        // Add the submit button.
-        $this->add([
-            'type'  => 'submit',
-            'name' => 'submit',
-            'attributes' => [
-                'value' => 'Upload',
-                'id' => 'submitbutton',
-            ],
-        ]);
-    }
-}
+![Alt text](image-22.png)
 
 
 6. Qué es `Symfony`, para que se usa y de ejemplos de su `codificación`?
@@ -133,14 +68,7 @@ CVS es un Sistema Concurrente de Versiones, una forma de trabajo habitualmente u
 
  Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad.
 
- # Creamos un directorio y un archivo
-mkdir helloworld
-cd helloworld
-echo "Hello World" > README
- 
-# Inicializamos el repositorio
-git init
-Initialized empty Git repository in /home/dave/helloworld/.git/
+![Alt text](image-23.png)
 
 12. Qué es `Linux` en `Web Development` y para qué sirve?, de ejemplos.
 
