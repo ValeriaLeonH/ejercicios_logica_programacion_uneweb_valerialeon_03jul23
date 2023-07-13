@@ -5,13 +5,13 @@
 1. Qué es `AWS` en `Web Development` y para qué sirve?, de ejemplos.
 
 Amazon Web Services (AWS) es una colección de servicios de infraestructura digital que los desarrolladores pueden usar cuando desarrollan sus aplicaciones. Estos servicios incluyen recursos informáticos, almacenamiento, bases de datos y sincronización de aplicaciones (mensajería y colas).
-![Alt text](image.png)
+
 
 2. Qué es `iOs` en `Web Development` y para qué sirve y qué se diferencia de otros sistemas 
 operativos?, de ejemplos.
 
 Es un sistema operativo y sus siglas provienen de iPhone Operating System o Sistema Operativo de iPhone en español. Este sistema cerrado no permite que sea ejecutado en otros dispositivos que no sean de la marca Apple, lo que le hace exclusivo y más seguro, a diferencia de su mayor competidor Android .
-![ ](image-1.png)
+
 
 3. Qué es `Android` en `Web Development` y para qué sirve y en qué se diferencia de otros sistemas operativos?, de ejemplos.
 
@@ -106,7 +106,7 @@ Un freelancer es un profesional que presta sus servicios a terceros, y suele tra
 Stack Overflow es un sitio de preguntas y respuestas sobre casi cualquier rama de la informática Lo interesante de ese sitio es que si tenemos una duda o problema solo debemos postearla con el mayor detalle y descripción posible para que alguien pueda apoyarnos y darnos alguna posible respuesta.
 
 17. Cómo crear un `currículum` qué sea atractivo para las `Tech companies` y para las `Startups`? de ejemplos de lo que es un excelente currículum.
-![Alt text](image.png)
+![Alt text](image-9.png)
 
 ## Práctica
 
