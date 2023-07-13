@@ -103,8 +103,10 @@ Un freelancer es un profesional que presta sus servicios a terceros, y suele tra
 
 16. Qué es `Stack Overflow` en `Web Development` y para qué sirve?, de ejemplos.
 
+Stack Overflow es un sitio de preguntas y respuestas sobre casi cualquier rama de la informática Lo interesante de ese sitio es que si tenemos una duda o problema solo debemos postearla con el mayor detalle y descripción posible para que alguien pueda apoyarnos y darnos alguna posible respuesta.
 
 17. Cómo crear un `currículum` qué sea atractivo para las `Tech companies` y para las `Startups`? de ejemplos de lo que es un excelente currículum.
+![Alt text](image.png)
 
 ## Práctica
 
