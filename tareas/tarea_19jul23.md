@@ -24,6 +24,7 @@ Me gustó, me pareció que aumentaba mi tiempo de productividad, me concentraba 
 
 5. Lea el artículo [How Taking More Breaks Will Boost Your Productivity](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/) y diga en clases porqué es importante tomar breaks?, cuáles son algunas de las herramientas utilizadas en el artículo para aumentar la productividad? de ejemplos en los que se haya sentido abrumado.
 
+Es muy importante tomar descansos, ya que si no lo hacemos puede ser perjudicial para nuestra salud mental, segun el texto tener agotamiento acumulado reduce la productividad . Las erramientas para aumentar la productividad es el método pomodoro, y un buen descanso entre tiempos de trabajo
 
 6. Cuáles son para usted los `Errores a evitar en la programación`?, comentelos en clase, diga porqué son errores y cómo lograría usted solucionarlos, de ejemplos.
 
