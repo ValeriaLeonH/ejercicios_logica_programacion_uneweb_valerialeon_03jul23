@@ -44,16 +44,30 @@ Los voluntarios de las comunidades de programación están aquí para ayudar. Pe
 
   1.1. una vez leido este artículo, comenté que es para usted hacer buenas preguntas y malas preguntas?
 
+  las buenas preguntas son aquellas que preguntamos porque en realidad no encontramos la respuesta, en cambio las malas preguntas son aquellas, que la respuesta las podemos encontrar facilmente en internet o en libros. 
+
 2. Lea los siguientes 3 artículos que se encuentran en los hipervínculos, luego de leerlos comente en clases de que tratan cada uno de los puntos:
 
-  2.1. [Don’t ask to ask, just ask](https://dontasktoask.com/) demuestra la importancia de preguntar sin preguntar.
+  2.1. [Don’t ask to ask, just ask](https://dontasktoask.com/) demuestra la 
+  importancia de preguntar sin preguntar.
+
+Como lo dice el titulo No pidas preguntar, solo pregunta, indica que es muy importante no escribir un mensaje pidiendo hacer una pregunta, porque las personas que lo lean no les va a generar interés, mientras que si haces la pregunta directamente lo más seguro es que alguien le interese lo que preguntas y te ayude. 
+
   2.2. Lea sobre el ["XY Problem"](https://xyproblem.info/), que es un escollo común en el que caen tanto los programadores noveles como los experimentados a la hora de hacer preguntas.
+
+El problema ocurre cuando las personas se quedan atascadas en lo que creen que es la solución y no pueden dar un paso atrás y explicar el problema en su totalidad.
+
   2.3. Lee y marca como favorita nuestra guía comunitaria [How to Ask Technical Questions](https://www.theodinproject.com/guides/community/how_to_ask). Es una gran referencia a la que acudir siempre que necesites pedir ayuda, y puede que te encuentres resolviendo tu propio problema al pensar en los puntos que se enumeran en el artículo (vea los sublinks de la publicación y comentelos en clases).
 
 ## Práctica
 
 1. Realice el ejercicio [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
-2. Realice el ejercicio del apartado [Prepare > Java > Introduction > Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+
+2. Realice el ejercicio del apartado 
+[Prepare > Java > Introduction > Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+
 3. agrega una imagen de fondo en el encabezado de tu perfil de tu cuenta de usuario en el portal [LinkedIn](https://www.linkedin.com/), debe ser una imagen libre de derechos de autor y alusiva a la programación, editala un poco, dale un toque original con algun filtro, puedes buscarla en el portal de imagenes libre [unsplash](https://unsplash.com).
+
 4. Termine los retos plasmados en los ejercicios del `1` al `91` de `Responsive Web Design`, del apartado `Learn Basic CSS by Building a Cafe Menu` del portal `freeCodeCamp`.
+
 5. Realizar los ejercicios del portal o aplicativo `Duolingo` de la `sección 4` del idioma `inglés`.
