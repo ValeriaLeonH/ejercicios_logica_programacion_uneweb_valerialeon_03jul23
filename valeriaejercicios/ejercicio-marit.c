@@ -60,9 +60,9 @@ int main()
 
   x = total_x;
 
-  /*---*/
+  /*---*/ //OJO AQUI 
   for (int i = min_value; i < total_x; i++)
-  {
+  { y=x-1;
     for (int j = 0; j < longitud; j++)
     {
       x += arr5[j];
@@ -72,7 +72,7 @@ int main()
         // printf("%d", x + 1);
       }
     }
-    x--;
+    printf("%d", y);
   }
 
   return 0;
