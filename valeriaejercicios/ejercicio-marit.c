@@ -60,19 +60,22 @@ int main()
 
   x = total_x;
 
-  /*---*/ //OJO AQUI 
-  for (int i = min_value; i < total_x; i++)
-  { y=x-1;
+  /*---*/ //
+  for (int i = min_value; i < total_x; i++) {
+   y=x;
+
     for (int j = 0; j < longitud; j++)
-    {
-      x += arr5[j];
-      printf("%d", x);
-      if (x < 1)
+    { 
+      y +=arr5[j];
+      //printf("%d", y);
+      if (y < 1)
       {
-        // printf("%d", x + 1);
+        printf("%d", x + 1);
+        return 0;
       }
     }
-    printf("%d", y);
+    x--;
+    //printf("\n");
   }
 
   return 0;
