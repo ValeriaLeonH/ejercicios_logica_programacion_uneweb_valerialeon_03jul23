@@ -52,7 +52,7 @@ int main()
   for (int i = 0; i < longitud; i++)
   {
     total_x += arr5[i];
-    if (arr5[i] < 1)
+    if (arr5[i] <  1)
     {
       min_value += arr5[i];
     }
