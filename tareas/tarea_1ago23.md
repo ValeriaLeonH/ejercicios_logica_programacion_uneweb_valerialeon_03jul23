@@ -149,7 +149,9 @@ Lenguajes - C++, C#, Go, Java, Python
 Herramientas - ESLint, JSHint , PowerShell
 Depuradores - PHP XDebug.
 Mapas clave - Vim, Sublime Text, IntelliJ, Emacs, Atom, Brackets, Visual Studio, Eclipse
+
 13. Lea el artículo [User Interface](https://code.visualstudio.com/docs/getstarted/userinterface) y diga en clases que conclusiones puede tener del artículo.
+interfaz de usuario, barra de actividades, minimapa que esta a la derecha, las migas de pan, 
 
 
 14. Lea el artículo [User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings) y diga en clases que conclusiones puede tener del artículo.
