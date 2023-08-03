@@ -24,6 +24,9 @@ sudo apt install ./code-latest.deb
 
 2. Vea el video [VSCode Tutorial For Beginners - Getting Started With VSCode](https://www.youtube.com/watch?v=ORrELERGIHs&t=103s&ab_channel=TechWithTim) y diga en clases que conclusiones puede tener del video.
 
+ANOTACIONES:
+-CONTROL + ` para abrir terminal
+
 | Introducción a VSCode 
 | Apertura y creación de proyectos
 | Explorador de archivos/proyectos
