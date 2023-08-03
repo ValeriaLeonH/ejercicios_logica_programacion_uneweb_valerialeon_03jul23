@@ -1,0 +1,65 @@
+# Tarea Miercoles HTML5 02 de julio
+
+## teórica
+
+1. Lea el artículo [Command Line Basics](https://www.theodinproject.com/lessons/foundations-command-line-basics) y diga en clases que conclusiones puede tener del artículo.
+
+El articulo habla de Conceptos básicos de la línea de comandos: 
+-Describa qué es la línea de comandos: la interfaz de línea de comandos (CLI), donde puede ingresar comandos que su computadora ejecutará por usted.
+
+-Abra la línea de comandos en su computadora:Linux: Abra el menú de programas y busque "Terminal", o control + alt + t.
+
+-Para abrir un carpeta: ~/Documents/Odin-Project/foundations/javascript/calculator/TabDocumentsDownloadscd DTabbash $ cd D Documents/ Downloads/ $ cd D cd Doc[tab]O[tab]f[tab]j[tab]cal[tab]
+
+-Utilice la línea de comandos para navegar por los directorios y mostrar el contenido del directorio: git add .cdcode .
+
+-Utilice la línea de comandos para crear un nuevo directorio y un nuevo archivo.
+
+-En Linux: puede abrir VSCode desde la línea de comandos escribiendo , y puede abrir carpetas o archivos agregando el nombre de la ubicación después de él: .codecode my_awesome_project/
+
+2. Lea el artículo [Summary and Setup](https://swcarpentry.github.io/shell-novice/#open-a-new-shell) y diga en clases que conclusiones puede tener del artículo.
+
+El articulo habla de shell de Unix, que es un programa que nos permite enviar comandos al ordenador y recibir salida. También se conoce como el terminal o línea de comandos :
+
+Descargar archivos
+Debe descargar algunos archivos para seguir esta lección.
+
+Descargue shell-lesson-data.zip y mueva el en su escritorio.
+Descomprimir/extraer el archivo. Informe a su instructor si lo necesita Ayuda con este paso. Debería terminar con una nueva carpeta llamada shell-lesson-data en su escritorio.
+Instalar software
+Si aún no tiene instalado el software de shell, Necesito descargar e instálalo.
+
+Abrir un nuevo shell
+Después de instalar el software
+
+Abra un terminal. Si no está seguro de cómo abrir un terminal en su sistema operativo, consulte las instrucciones a continuación.
+En el terminal, escriba la tecla. Este paso asegurará que comience con su hogar como directorio de trabajo.cdReturn
+En la lección, descubrirá cómo acceder a los archivos de datos en este carpeta.
+
+
+3. Lea el artículo [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro.html) y diga en clases que conclusiones puede tener del artículo.
+
+El articulo habla sobre Shell, da una breve introduccion al tema:
+
+-Background:  El shell de Unix es tanto una interfaz de línea de comandos (CLI) como un lenguaje de scripting, permitiendo que tales tareas repetitivas se realicen de forma automática y rápida, y no tengas que durar horas haciendo un trabajo.
+
+-The Shell: te ense;a como escribir comandos, ejemplo al escribir un comando comienza con el signo $ y luego le das a enter, ejemplo $ls; si ingresas un usario el signo de dolar va al final. 
+
+Si el comando no existe, te va a mandar un mensaje de error
+
+PUNTOS CLAVE
+-Un shell es un programa cuyo propósito principal es leer comandos y Ejecutar otros programas.
+-Esta lección usa Bash, el shell predeterminado en muchas implementaciones de Unix.
+-Los programas se pueden ejecutar en Bash introduciendo comandos en la línea de comandos pronto.
+-Las principales ventajas de la carcasa son su alta relación acción-pulsación de teclas, su soporte para automatizar tareas repetitivas y su capacidad de acceso Máquinas en red.
+-Un desafío importante al usar el shell puede ser saber qué Los comandos deben ejecutarse y cómo ejecutarlos.
+
+
+## Práctica
+
+1. Realice el ejercicio [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+2. Haga los `ejercicios del 8 al 10` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), [SQL](https://www.hackerrank.com/domains/sql), [Linux shell](https://www.hackerrank.com/domains/shell), del portal [HackerRank](https://www.hackerrank.com/dashboard).
+3. Crea tu resume haciendo uso de la [plantilla](https://docs.google.com/document/d/1jfUa4HGBDjt2peJPQ0Wg1YhdGkCoSysS6QMT4u8bCic/edit?usp=sharing).
+4. Termine los retos plasmados en los ejercicios del `1` al `94` de `Responsive Web Design`, del apartado `Learn CSS Colors by Building a Set of Colored Markers` del portal `freeCodeCamp`.
+5. Realizar los ejercicios del portal o aplicativo `Duolingo` de la `sección 9` del idioma `inglés`.
+6. instale `VSCode` en el sistema operativo `Xubuntu`.
