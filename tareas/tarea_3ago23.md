@@ -110,11 +110,57 @@ NORMAS
 
 7. Lea el artículo [tab completion](https://en.wikipedia.org/wiki/Command-line_completion) y diga en clases que conclusiones puede tener del artículo.
 
+Cuando escribimos una palabra y sin finalizarla le damos click a tab y automaticamente completa la palabra 
 
 8. Lea el artículo [Chapter 1 Basics and Navigation](https://www.softcover.io/read/fc6c09de/unix_commands/basics#sec-basics-cd) y diga en clases que conclusiones puede tener del artículo.
 
+El articulo habla de algunos comandos por ejemplo:
+-Para saber en que directorio estamos $pdw.
+-Para ver la ruta fisica real  $ pwd -P 
+-Para ver que archivos o subdirectorios estan en tu directorio actual: $ ls 
+-Para ver archivos dentro de un subdirectorio : $ ls /usr/local/
+-Para ver archivos ocultos $ ls -a
+-Para enumerar los nombres de los archivos $ ls -l
+-Para ver mayor descripcion de los tamanos de los archivos $ ls -lh
+-Para clasificar por tamano $ ls -lhS
+-Clasificacion por la ultima hora de modificacion $ ls -lt
+-Para de ordenar de forma inversa $ ls -lr
+
+LINKS
+-Para vincular dos archivos $ ln a.txt b.txt
+-Para ver el contenido intacto de un archivo $ cat b.txt
+-Para forzar enlaces(-f) $ ln -f a.txt b.txt
+-Para crear enlaces simbolicos (-s) $ ln -s a.txt b.txt
+
+TERMINAR TERMINAR TERMINAR TERINAR TERMINAR TERMINAR 
 
 9. De respuesta a las pregustas del apartado [Knowledge check](https://www.theodinproject.com/lessons/foundations-command-line-basics#knowledge-check), y diga en clases sus respuestas sin leer el material de apoyo.
+
+-¿Qué es la línea de comandos? la interfaz de línea de comandos (CLI), donde puede ingresar comandos que su computadora ejecutará por usted.
+
+-¿Cómo se abre la línea de comandos en el equipo? CONTOL + ALT +T
+
+-¿Cómo puede navegar a un directorio en particular? Mediante el terminal, puedes usar los comandos cd y ls
+
+-¿A dónde te guiará cd por sí solo?
+cd te mostrata el nombre del directorio actual en el que estas 
+
+-¿A dónde te guiará cd ..?
+Te llevara al directorio principal del directorio actual
+
+-¿Cómo se muestra el nombre del directorio en el que se encuentra actualmente?  pwd
+
+-¿Cómo se muestra el contenido del directorio en el que se encuentra actualmente? ls
+
+-¿Cómo se crea un nuevo directorio? $ mkdir nuevodirectorio 
+
+-¿Cómo se crea un nuevo archivo? nano text.txt
+
+-¿Cómo se destruye un directorio o archivo?
+$rm -r directorio; $rm archivo
+
+-¿Cómo se cambia el nombre de un directorio o archivo? -PARA CAMBIAR NOMBRE DEL ARCHIVO usamos $mv:
+$ mv thesis/draft.txt thesis/quotes.txt
 
 ## Práctica
 
