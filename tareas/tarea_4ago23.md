@@ -4,9 +4,200 @@
 
 1. Lea el artículo [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme) y diga en clases que conclusiones puede tener del artículo.
 
+ES UN MANUAL PARA LINEA DE COMANDOS: habla de Procesamiento de archivos y datos, Depuración del sistema, comandos basicos 
+
+LO ESCENCIAL 
+El articulo habla sobre la linea de comandos:
+-man man enumera los numeros de seccion. 
+-help y help -d, muestra los comandos ejecutables, y colocando type command para averiguar si un comando es ejecutable
+-curl cheat.sh/commanddará una breve "hoja de trucos" con ejemplos comunes de cómo usar un comando de shell.
+
+
+CONTROL 
+-ctrl + r: para buscar en el historial de comandos
+-ctrl+w para eliminar la ultima palbra
+-ctrl+u para eliminar el contenido del cursor actual 
+-ctrl+a para mover el cursor al principio de la linea
+-ctrl+e para mover el cursor al final de la linea
+-ctrl+k para matar al final de la línea,
+-ctrl+l para borrar la pantalla
+
+
+-alt +e, alt+f para moverse de palabra
+
+PARA 
+-detener in proceso kill -STOP [pid]
+
+NOTAS: PUEDES CONFIGURAR ALIAS
+
+OSCURO PERO UTIL 
+
+expr: realizar operaciones aritméticas o booleanas o evaluar expresiones regulares
+
+m4: procesador de macros simple
+
+yes: imprime una cadena mucho
+
+cal: buen calendario
+
+env: ejecutar un comando (útil en scripts)
+
+printenv: imprime variables de entorno (útil en depuración y scripts)
+
+look: encuentra palabras en inglés (o líneas en un archivo) que comienzan con una cadena
+
+cut, pastey join: manipulación de datos
+
+fmt: formato de párrafos de texto
+
+pr: formato de texto en páginas/columnas
+
+fold: ajustar líneas de texto
+
+column: formato de campos de texto en columnas o tablas alineadas de ancho fijo
+
+expandy unexpand: convertir entre tabulaciones y espacios
+
+nl: añadir números de línea
+
+seq: imprimir números
+
+bc: calculadora
+
+factor: factorizar enteros
+
+gpg: cifrar y firmar archivos
+
+toe: tabla de entradas terminfo
+
+nc: depuración de red y transferencia de datos
+
+socat: socket relay y tcp port forwarder (similar a netcat)
+
+slurm: visualización del tráfico de red
+
+dd: mover datos entre archivos o dispositivos
+
+file: identifica el tipo de un archivo
+
+tree: mostrar directorios y subdirectorios como un árbol anidado; como lspero recursivo
+
+stat: información del archivo
+
+time: ejecutar y cronometrar un comando
+
+timeout: ejecuta un comando durante una cantidad de tiempo especificada y detiene el proceso cuando se completa la cantidad de tiempo especificada.
+
+lockfile: crea un archivo de semáforo que solo puede ser eliminado porrm -f
+
+logrotate: rotar, comprimir y enviar registros por correo.
+
+watch: ejecutar un comando repetidamente, mostrando resultados y/o resaltando cambios
+
+when-changed: ejecuta cualquier comando que especifique cada vez que ve que el archivo ha cambiado. Ver inotifywaity entrtambién.
+
+tac: imprimir archivos al revés
+
+comm: comparar archivos ordenados línea por línea
+
+strings: extraer texto de archivos binarios
+
+tr: traducción o manipulación de personajes
+
+iconvo uconv: conversión para codificaciones de texto
+
+splity csplit: dividir archivos
+
+sponge: lea toda la entrada antes de escribirla, útil para leer y luego escribir en el mismo archivo, por ejemplo,grep -v something some-file | sponge some-file
+
+units: conversión de unidades y cálculos; convierte furlongs por quincena a twips por parpadeo (ver también /usr/share/units/definitions.units)
+
+apg: genera contraseñas aleatorias
+
+xz: compresión de archivos de alta relación
+
+ldd: información de la biblioteca dinámica
+
+nm: símbolos de archivos de objetos
+
+abo wrk: servidores web de evaluación comparativa
+
+strace: depuración de llamadas al sistema
+
+mtr: mejor traceroute para la depuración de red
+
+cssh: shell concurrente visual
+
+rsync: sincronizar archivos y carpetas a través de SSH o en el sistema de archivos local
+
+wiresharky tshark: captura de paquetes y depuración de red
+
+ngrep: grep para la capa de red
+
+hosty dig: búsquedas de DNS
+
+lsof: descriptor de archivo de proceso e información de socket
+
+dstat: estadísticas útiles del sistema
+
+glances: visión general de varios subsistemas de alto nivel
+
+iostat: Estadísticas de uso del disco
+
+mpstat: estadísticas de uso de la CPU
+
+vmstat: Estadísticas de uso de memoria
+
+htop: versión mejorada de top
+
+last: historial de inicio de sesión
+
+w: quién está conectado
+
+id: información de identidad de usuario/grupo
+
+sar: estadísticas históricas del sistema
+
+iftopo nethogs: utilización de la red por socket o proceso
+
+ss: estadísticas de socket
+
+dmesg: mensajes de error de arranque y del sistema
+
+sysctl: ver y configurar los parámetros del kernel de Linux en tiempo de ejecución
+
+hdparm: Manipulación/rendimiento de discos SATA/ATA
+
+lsblk: lista de dispositivos de bloque: una vista de árbol de sus discos y particiones de disco
+
+lshw, lscpu, lspci, lsusb, dmidecode: información de hardware, incluyendo CPU, BIOS, RAID, gráficos, dispositivos, etc.
+
+lsmody modinfo: Lista y muestra detalles de los módulos del kernel.
+
+fortune, ddate, y sl: um, bueno, depende de si consideras que las locomotoras de vapor y las citas de Zippy son "útiles"
+
+
 
 2. Lea el artículo [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial) y diga en clases que conclusiones puede tener del artículo.
 
+El articulo habla de como ser peligroso usando la linea de comandos, habla de como abrir un terminal, luego habla de como esta compuesta una linea del terminal:
+
+-Aviso o prompt, que es el indicador termina en $ o signo de %
+-El comando es lo que indica la tarea que queremos realizar ejemplo rm 
+-El argumento que es el nombre de archivo, directorio
+
+COMANDOS:
+- echo hola: para escribir
+-COntrol c para deterner un proceso, tambien puedes usar ESC
+
+PAGINAS MAN 
+-INDICA UN MANUAL, del codigo que se escriba, ejemplo : man echo 
+
+UBICARSE EN LA LINEA
+Para escribir delante de una linea ^A, AL FINAL ^e y ^U Para borrar toda la linea
+
+PARA LIMPIAR clear 
+PARA SALIR exit
 
 3. Realice todas las actividades localizadas en los links del portal [ExplainShell.com](https://explainshell.com/) y diga en clases que conclusiones puede tener del artículo.
 
