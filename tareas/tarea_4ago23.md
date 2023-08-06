@@ -204,6 +204,7 @@ PARA SALIR exit
 
 4. Lea el artículo [Unix/Linux Command Cheat Sheet](https://files.fosswire.com/2007/08/fwunixref.pdf) y diga en clases que conclusiones puede tener del artículo.
 
+![Alt text](image.png)
 
 5. Realice todas las actividades localizadas en los links del portal [Introduction | Command Line Flashcards](https://flashcards.github.io/command_line/introduction.html) y diga en clases que conclusiones puede tener del artículo.
 
