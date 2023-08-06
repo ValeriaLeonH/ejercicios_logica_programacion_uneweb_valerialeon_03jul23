@@ -208,6 +208,44 @@ PARA SALIR exit
 
 5. Realice todas las actividades localizadas en los links del portal [Introduction | Command Line Flashcards](https://flashcards.github.io/command_line/introduction.html) y diga en clases que conclusiones puede tener del artículo.
 
+pwd imprime el nombre del directorio de trabajo
+
+cd toma un nombre de directorio como argumento y cambia a ese directorio
+
+ls enumera todos los archivos y directorios en el directorio de trabajo
+
+cp copia archivos o directorios. cp file1 file2copiará el archivo 1 al archivo 2
+
+cd .. Para subir un directorio, utilicecd ..
+
+mkdir toma un nombre de directorio como argumento y luego crea un nuevo directorio en el directorio de trabajo actual.
+
+m.v.
+Para mover un archivo a un directorio, utilice mv el archivo de origen como primer argumento y el directorio de destino como segundo argumento.
+
+cat nos permite crear archivos únicos o múltiples, ver el contenido del archivo, concatenar archivos y redirigir la salida en la terminal o archivos.
+
+touch crea un nuevo archivo dentro del directorio de trabajo. Toma un nombre de archivo como argumento y luego crea un nuevo archivo vacío en el directorio de trabajo actual. Aquí usamos touch para crear un nuevo archivo llamado keyboard.txt dentro del directorio
+
+grep significa "impresión de expresión regular global". Busca archivos en busca de líneas que coincidan con un patrón y devuelve los resultados. Es sensible a mayúsculas y minúsculas.
+
+rm borra archivos
+
+rm -r elimina un directorio recursivamente
+
+man commandmuestra el manual para el especificadocommand
+
+chmod ugo file cambia los permisos del archivo a ugo: u son los permisos del usuario, g son los permisos del grupo y o son los permisos de todos los demás. Los valores de u, g y o pueden ser cualquier número entre 0 y 7.
+
+gato
+El comando cat nos permite crear archivos únicos o múltiples, ver el contenido del archivo, concatenar archivos y redirigir la salida en la terminal o archivos.
+
+>>toma la salida estándar del comando de la izquierda y la agrega (agrega) al archivo de la derecha. Ejemplo:cat glaciers.txt >> rivers.txt
+
+<toma la entrada estándar del archivo de la derecha y la ingresa en el programa de la izquierda. Ejemplo:cat < lakes.txt
+
+|es una "tubería". el | toma la salida estándar del comando de la izquierda y la canaliza como entrada estándar al comando de la derecha. Puede pensar en esto como una redirección de "comando a comando". Ejemplo:cat volcanoes.txt | wc
+
 
 6. Vea todos los videos y realice los ejercicios de [Video Series from LearnLinuxTv](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ) y diga en clases que conclusiones puede tener de los videos.
 
