@@ -143,18 +143,18 @@ TERMINAR TERMINAR TERMINAR TERINAR TERMINAR TERMINAR
 -¿Cómo puede navegar a un directorio en particular? Mediante el terminal, puedes usar los comandos cd y ls
 
 -¿A dónde te guiará cd por sí solo?
-cd te mostrata el nombre del directorio actual en el que estas 
+cd te llevara al directorio raiz
 
 -¿A dónde te guiará cd ..?
-Te llevara al directorio principal del directorio actual
+Te llevara al directorio principal del directorio actual, (carpeta hacia arriba)
 
 -¿Cómo se muestra el nombre del directorio en el que se encuentra actualmente?  pwd
 
--¿Cómo se muestra el contenido del directorio en el que se encuentra actualmente? ls
+-¿Cómo se muestra el contenido del directorio en el que se encuentra actualmente? ls o ls-F
 
 -¿Cómo se crea un nuevo directorio? $ mkdir nuevodirectorio 
 
--¿Cómo se crea un nuevo archivo? nano text.txt
+-¿Cómo se crea un nuevo archivo? touch
 
 -¿Cómo se destruye un directorio o archivo?
 $rm -r directorio; $rm archivo
