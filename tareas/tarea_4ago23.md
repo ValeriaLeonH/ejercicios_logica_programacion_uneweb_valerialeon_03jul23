@@ -249,6 +249,22 @@ El comando cat nos permite crear archivos únicos o múltiples, ver el contenido
 
 6. Vea todos los videos y realice los ejercicios de [Video Series from LearnLinuxTv](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ) y diga en clases que conclusiones puede tener de los videos.
 
+1 habla de una breve introduccion
+
+2 Habla de como crear un vps, entra en linode, selecciona la opcion ubuntu, llenas los datos, conectas la direecion IP, puedes iniciar la consola, escribe root e inicie sesion, puedes escribir otro comandos. 
+
+3 Habla de como installar y configurar xubuntu y virtual box
+-Descargamos xubuntu 
+-Descargamos virtual box
+-Abre virtual box, en file coloca la direccion que se pide, los datos que se piden y luego inicia sesion.
+
+4 el video habla de como navegar por el sistema de archivos, usando los comandos:
+-ls para visualizar el contenido del directorio en el que esta -ls / muestra contenido desde el disco duro,  
+-ls /home muestra el contenido dentro de home, 
+-ls -l / muestra toda la informacion del contenido del directorio
+-clear para limpiar la pantalla
+-pwd indica en que directorio esta actualmente
+-
 ## Práctica
 
 1. Realice el ejercicio [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
