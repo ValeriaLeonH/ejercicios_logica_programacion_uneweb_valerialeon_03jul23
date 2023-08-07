@@ -237,7 +237,7 @@ man commandmuestra el manual para el especificadocommand
 
 chmod ugo file cambia los permisos del archivo a ugo: u son los permisos del usuario, g son los permisos del grupo y o son los permisos de todos los demás. Los valores de u, g y o pueden ser cualquier número entre 0 y 7.
 
-gato
+
 El comando cat nos permite crear archivos únicos o múltiples, ver el contenido del archivo, concatenar archivos y redirigir la salida en la terminal o archivos.
 
 >>toma la salida estándar del comando de la izquierda y la agrega (agrega) al archivo de la derecha. Ejemplo:cat glaciers.txt >> rivers.txt
