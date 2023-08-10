@@ -5,21 +5,23 @@
 1. Lea el artículo [Git Basics](https://www.theodinproject.com/-lessons/foundations-git-basics) y diga en clases que conclusiones puede tener del artículo.
 
 HABLA SOBRE LOS CONCEPTOS BASICOS DE GIT, Cómo crear un repositorio en GitHub.
+
 Cómo obtener archivos hacia y desde GitHub.
 Cómo tomar "instantáneas" de su código.
 
 HABLA DE ALGUNOS COMANDO POR EJEMPLO: 
 -git add .
 -git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
--git pusho git push origin main(Ambos logran el mismo objetivo en este contexto)
+-git push git push origin main(Ambos logran el mismo objetivo en este contexto)
 -git commit -m "A message describing what you have done to make this snapshot different"
 -git status
 -git log, para ver el historial de trabajo.
 -
 
 2. Lea el artículo [Renaming the default branch from master](https://github.com/github/renaming) y diga en clases que conclusiones puede tener del artículo.
+
 EL ARTICULO HABLA: 
--Los nuevos repositorios se usan maincomo nombre de rama predeterminado
+-Los nuevos repositorios se usan main como nombre de rama predeterminado en vez de master 
 
 Cambiar el nombre de una rama hará lo siguiente:
 
@@ -144,7 +146,7 @@ escribes el comando git log para ver el historial de tus commits y algunos detal
 12. Vea el video [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha) y diga en clases que conclusiones puede tener del video.
 
 
-Básicamente habla de que es git y github (otra vez, creo que estamos claros que es git y github) y explica comandos de consola muy básicos como: ls -a, touch, cd, rm etc sobre git dice lo siguiente: 
+el video habla de que es git y github y explica comandos de consola muy básicos como: ls -a, touch, cd, rm etc sobre git dice lo siguiente: 
 
 Git init: para crear un repositorio vacío en una carpeta
 
@@ -189,7 +191,7 @@ Habla por último de los merge conflict (o conflictos de fusión) que viene a se
 
 13. Lea el artículo [Git - Reference](https://git-scm.com/docs) y diga en clases que conclusiones puede tener del artículo.
 
-  EL ARTICULO ES COMO UNA GUIA DE GIT, donde encuentyras acerca de instalacion, configuracion, instalaciones basicas, ramificaciones y funciones, depuracciones, comandos basicos, proyectos y guias de estudio.
+  EL ARTICULO ES COMO UNA GUIA DE GIT, donde encuentras acerca de instalacion, configuracion, instalaciones basicas, ramificaciones y funciones, depuracciones, comandos basicos, proyectos y guias de estudio.
 
 
 14. Lea el artículo [Adding locally hosted code to GitHub](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github) y diga en clases que conclusiones puede tener del artículo.
