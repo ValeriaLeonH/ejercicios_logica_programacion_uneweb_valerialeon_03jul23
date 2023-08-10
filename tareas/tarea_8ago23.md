@@ -40,6 +40,7 @@ HABLA SOBRE LA HISTORIA DE GIT:
 HABLA DE LAC CARACTERISTICAS DE GIT QUE SON: 
 
 -Instantáneas, se guardan las versiones de forma instantanea
+
 -Casi todas las operaciones son locales, La mayoría de las operaciones en Git solo necesitan archivos y recursos locales para funcionar; por lo general, no se necesita información de otra computadora en su red.
 
 -Git tiene integridad: Todo en Git se suma antes de que se almacene y luego se hace referencia a esa suma de verificación. Esto significa que es imposible cambiar el contenido de cualquier archivo o directorio sin que Git lo sepa. Esta funcionalidad está integrada en Git en los niveles más bajos y es parte integral de su filosofía.
@@ -116,7 +117,7 @@ Github: toma ese encantador historial de confirmaciones y lo aloja en línea par
 
 11. Lea el artículo [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control) y diga en clases que conclusiones puede tener del artículo.
 
-BENEFICIOS DEL CONTROL DDE VERSIONES : 
+BENEFICIOS DEL CONTROL DE VERSIONES : 
 1 Un historial completo de cambios a largo plazo de cada archivo. Tener el historial completo permite volver a las versiones anteriores para ayudar en el análisis de la causa raíz de los errores y es crucial cuando se necesita solucionar problemas en versiones anteriores del software
 
 2 Ramificación y fusión. Hacer que los miembros del equipo trabajen simultáneamente, as personas que trabajan por su cuenta pueden beneficiarse de la capacidad de trabajar en flujos de cambios independientes.
