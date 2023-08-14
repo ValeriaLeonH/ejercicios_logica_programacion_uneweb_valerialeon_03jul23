@@ -1,9 +1,58 @@
-tittle{
-  text-align:center;
-  color: blue;
+@import url('https://fonts.googleapis.com/css2?family=B612:wght@700&display=swap');
+
+body{
+  background-color: rgb(107, 116, 178);
 }
 
-.description{
+h1{
   text-align:center;
-  color: blue;
+  color: white;
+  font-size: 80px;
+  font-weight: 700;
+  font-family: 'B612', sans-serif;
+  text-shadow: 4px 5px 0 #162879;
+  
+}
+
+p{
+  text-align: auto;
+  color: #252d51;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 1.5rem;
+}
+
+fieldset{
+  background-color:#bcc5f6;
+  margin: 1rem;
+  text-align: justify;
+  border: 0.2rem  solid #d3dbff;
+}
+
+label{
+  font-family:'B612', sans-serif;
+  margin-left: 1.5rem;
+}
+
+input{
+  height: 0.8rem;
+  margin-left: 0.5rem;
+}
+
+select{
+  margin-left: 1.5rem;
+}
+
+input[type="text"] {
+  margin-left: 1.5rem;
+}
+
+textarea{
+  margin-left: 1.5rem;
+}
+
+input[type="submit"]{
+  background-color:#252d51;
+  color: white ;
+  font-family:'B612', sans-serif;
+  height:2rem;
 }
