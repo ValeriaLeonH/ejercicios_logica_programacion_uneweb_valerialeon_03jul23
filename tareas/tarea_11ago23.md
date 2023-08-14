@@ -8,7 +8,7 @@ el articulo habla sobre HTML y sobre los elementos y etiquetas.
 
 HTML (HyperText Markup Language) define la estructura y el contenido de las páginas web. Usamos elementos HTML para crear todos los párrafos, encabezados, listas, imágenes y enlaces que componen una página web típica.
 
-Casi todos los elementos de una página HTML son solo fragmentos de contenido envueltos en etiquetas HTML de apertura y cierre. ejemplo de elemento parrafo y de etiqueta <p><p/>
+Casi todos los elementos de una página HTML son solo fragmentos de contenido envueltos en etiquetas HTML de apertura y cierre. ejemplo de elemento parrafo y de etiqueta <p> </p>
 
 
 2. Lea el artículo [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) y diga en clases que conclusiones puede tener del artículo.
@@ -30,13 +30,13 @@ El articulo es como un diccionario donde encuentras todo los elementos y sus eti
 
 
 El articulo habla sobre HTML Y CSS 
+EL VIDEO HABLA SOBRE HTML Y COMO USARLO 
+
+EN HTML, se usan elementos y etiquetas, las etiquetas se abren y se cierran, y se le designa un nombre relacionado, ejemplo para menu usamos la etiqueta <menu></menu>, ejemplo para lista de ingredientes usamos para que sea lista ordenada <ol><li></li></ol> y ul para que sea lista desordenada
+
 ## Práctica
 
 1. Realice el ejercicio [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
-
-EL VIDEO HABLA SOBRE HTML Y COMO USARLO 
-
-EN HTML, se usan elementos y etiquetas, las etiquetas se abren y se cierran, y se le designa un nombre relacionado, ejemplo para menu usamos la etiqueta <menu></m,enu>, ejemplo para lista de ingredientes usamos para que sea lista ordenada <ol><li></li></ol> y ul para que sea lista desordenada
 
 
 2. Haga los `ejercicios del 8 al 10` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), [SQL](https://www.hackerrank.com/domains/sql), [Linux shell](https://www.hackerrank.com/domains/shell), del portal [HackerRank](https://www.hackerrank.com/dashboard).
