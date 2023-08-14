@@ -34,6 +34,10 @@ El articulo habla sobre HTML Y CSS
 
 1. Realice el ejercicio [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
 
+EL VIDEO HABLA SOBRE HTML Y COMO USARLO 
+
+EN HTML, se usan elementos y etiquetas, las etiquetas se abren y se cierran, y se le designa un nombre relacionado, ejemplo para menu usamos la etiqueta <menu></m,enu>, ejemplo para lista de ingredientes usamos para que sea lista ordenada <ol><li></li></ol> y ul para que sea lista desordenada
+
 
 2. Haga los `ejercicios del 8 al 10` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), [SQL](https://www.hackerrank.com/domains/sql), [Linux shell](https://www.hackerrank.com/domains/shell), del portal [HackerRank](https://www.hackerrank.com/dashboard).
 

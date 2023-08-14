@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lan="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <h1 id="tittle">Registration Form GYM OLIMPIA</h1>
+    <p id="description">Please enter the data to make your registration to the gym, these data are important, please <strong>don't omit any of them</strong> </p>
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label" >Enter your full name: 
+           <input id="name" type="text" required/>
+        </label> <br>
+        <label id="email-label">Enter your email: 
+          <input id="email" type="email" required/>
+        </label> <br>
+        <label id="number-label" >Enter your age: 
+          <input id="number" type="number" min="18"max="80" required/>
+        </label> <br>
+      </fieldset>
+      <fieldset>
+        <p>Why do you want to join the gym?</p>
+        <select id="dropdown" name="interest">
+          <option value="" name="select-one">(select one)</option>
+          <option value="1" name="hobby">Hobby</option>
+          <option value="2" name="health">health</option>
+          <option value="3" name="self-steem">Self-esteem</option>
+          <option value="4" name="others">Others</option>
+        </select>
+      </fieldset>
+      <fieldset>
+        <!-- AGREGAR PLACEHOLDER TEXTAREA-->
+        <p>Have you ever trained before?</p>
+        <label for="physical-condition">
+          <input id="physical condition" type="radio" name="physical condition" class="inline" /> yes
+        </label> <br>
+        <label for="physical-condition">
+          <input id="physical condition" type="radio" name="physical condition" class="inline" /> no
+        </label> <br>
+        <p>Do you need a personal trainer?</p>
+        <label for="trainer">
+          <input id="trainer" type="radio"
+          name="trainer" class="inline"/> yes
+        </label> <br>
+        <label for="trainer">
+          <input id="trainer" type="radio"
+          name="trainer" class="inline"/> no
+        </label> <br>
+        <p>Do you have any health problems/disease/disorder?</p>
+        <!--modifica-->
+        <label for="health">
+          <input id="health" type="radio"
+          name="trainer" class="inline"/> yes
+        </label> <br>
+        <label for="health">
+          <input id="health" type="radio"
+          name="trainer" class="inline"/> no
+        </label> <br>
+        <label id="health-problems">Enter your health problems/disease/disorder:: 
+          <input id="health-problems" type="text"/> 
+        </label> <br>
+        <label for="bio">Provide a bio:
+          <textarea id="bio" name="bio" rows="3" cols="30" placeholder="I am particularly interested in... I am allergic to... I have problems with vision, blood pressure, etc.,..."></textarea>
+        </label>
+      </fieldset>
+      <input type="submit" value="Submit" />
+    </form>  
+  </body>
+</html>
+
+<!--FALTA CHACKBOX-->
