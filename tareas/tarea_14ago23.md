@@ -68,8 +68,8 @@ Revisemos todo lo que aprendimos sobre la codificación HTML aquí y ahora:
 -Usar codificación porcentual para direcciones URL
 -Compruebe las metadeclaraciones cuando trabaje con XML y XHTML
 -Métodos para declarar la codificación de caracteres HTML en HTTP
--Cómo escapar de los personajes
--Cómo decodificar tus personajes a su forma anterior
+-Cómo escapar de los caracteres
+-Cómo decodificar tus caracteres a su forma anterior
 
 https://www.theodinproject.com/lessons/foundations-html-boilerplate#body-element
 
