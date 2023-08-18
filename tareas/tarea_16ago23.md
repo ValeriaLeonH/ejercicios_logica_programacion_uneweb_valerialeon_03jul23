@@ -235,13 +235,15 @@ El elemento HTML (o elemento ancla ), con su atributo , crea un hipervínculo a 
 
 27. Lea el artículo [Absolute and relative links](https://www.theodinproject.com/lessons/foundations-links-and-images#absolute-and-relative-links) y diga en clases que conclusiones puede tener del artículo.
 
-28. Lea el artículo [Images](https://www.theodinproject.com/lessons/foundations-links-and-images#images) y diga en clases que conclusiones puede tener del artículo.
-
 Enlaces absolutos
 Los enlaces a páginas en otros sitios web en Internet se denominan enlaces absolutos. Un enlace absoluto típico estará compuesto por las siguientes partes: protocol://domain/path. Un enlace absoluto siempre contendrá el protocolo y dominio del destino.
 
 Enlaces relativos
 Los enlaces a otras páginas dentro de nuestro propio sitio web se denominan enlaces relativos. Los enlaces relativos no incluyen el nombre de dominio, dado que es otra página en el mismo sitio, se supone que el nombre de dominio será el mismo que el de la página en la que creamos el enlace.
+
+28. Lea el artículo [Images](https://www.theodinproject.com/lessons/foundations-links-and-images#images) y diga en clases que conclusiones puede tener del artículo.
+
+Para coloca una imagen usamos la etiqueta <img> con un atributo src="con el link de la imagen" y un alt= de texto alternativo
 
 29. Lea el artículo [Parent directories](https://www.theodinproject.com/lessons/foundations-links-and-images#parent-directories) y diga en clases que conclusiones puede tener del artículo.
 
@@ -257,16 +259,21 @@ El atributo alt se utiliza para describir una imagen. Se usará en lugar de la i
 
 31. Lea el artículo [HTML & CSS for Beginners Part 5: Links](https://www.youtube.com/watch?v=tsEQgGjSmkM&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=6&ab_channel=KevinPowell) y diga en clases que conclusiones puede tener del artículo.
 
+Habla de usar en ancla anchor a, para colocar un link en nuestra pagina web
 
 32. Lea el artículo [HTML & CSS for Beginners Part 6: Images](https://www.youtube.com/watch?v=0xoztJCHpbQ&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=7&ab_channel=KevinPowell) y diga en clases que conclusiones puede tener del artículo.
 
-Habla de usar en ancla anchor a, para colocar un link en nuestra pagina web
+Habla de como colocar la etiqueta <img> con el atributo src y alt
 
 33. Lea el artículo [HTML & CSS for Beginners Part 7: File Structure](https://www.youtube.com/watch?v=ta3Oxx7Yqbo&list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-&index=8&ab_channel=KevinPowell) y diga en clases que conclusiones puede tener del artículo.
+
+Habla de la estructura de unn archivo html 
+OJO OJO OJO OJO 
 
 
 34. Lea el artículo [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#providing_image_fallbacks) y diga en clases que conclusiones puede tener del artículo.
 
+Es una guia de tipos de imagenes, formato, dimensiones, etc
 
 35. Conteste las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-links-and-images#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 
@@ -306,32 +313,82 @@ jpg, png, gif, svg
 
 36. Lea el artículo [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#providing_image_fallbacks) y diga en clases que conclusiones puede tener del artículo.
 
+REPETIDO
+
 37. Lea el artículo [Cómo ver una versión antigua de una web: con la cache de Google y Archive.org](https://www.xataka.com/basics/como-ver-version-antigua-web-cache-google-archive-org) y diga en clases que conclusiones puede tener del artículo.
+
+EL ARTICULO ESTABA VACIO 
 
 38. Lea el artículo [links and images](https://web.archive.org/web/20230601123733/https://internetingishard.netlify.app/html-and-css/links-and-images/) y diga en clases que conclusiones puede tener del artículo.
 
+El articulo habla de links e imagenes, como usar la etiqueta ancla o anchor <a></a> para colocar un link con el atributo href.
+
+-Los enlaces "absolutos" son la forma más detallada de hacer referencia a un recurso web. 
+
+<li>Absolute links, like to
+  <a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>Mozilla Developer Network</a>, which is a very good resource for web developers.
+</li>
+
+-Los enlaces "relativos" apuntan a otro archivo en su sitio web desde el punto de vista del archivo que está editando. 
+
+<li>Relative links, like to our <a href='misc/extras.html'>extras page</a>.
+</li>
+
+-carpetas principales
+Eso funciona para referirse a archivos que están en la misma carpeta o en una carpeta más profunda.
+
+-Los enlaces "relativos a la raíz" son similares a la sección anterior, pero en lugar de ser relativos a la página actual, son relativos a la "raíz" de todo el sitio web. Por ejemplo, si su sitio web está alojado en our-site.com, todas las URL relativas a la raíz serán relativas a our-site.com.
+
 39. Lea el artículo [What happened the day Google decided links including (/) were malware](https://www.itpro.com/609724/google-apologises-after-blacklisting-entire-internet) y diga en clases que conclusiones puede tener del artículo.
+
+El articulo habla de un pequeno error de google que hizo, que  todos los resultados de búsqueda devueltos por Google se etiquetaron como malware.
 
 40. Lea el artículo [When to use target=”_blank”](https://css-tricks.com/use-target_blank/) y diga en clases que conclusiones puede tener del artículo.
 
+Habla de como usar el atributo target, con los valores _blank y _self.
+-_blank es para abrir el link o enlace en una pagina nueva
+-Mientras que con _self el documento enlazado será mostrado en el mismo frame o ventana donde está el enlace.
+
 41. Lea el artículo [Aprende Git de manera sencilla: Git Flow](https://desarrollowp.com/blog/tutoriales/aprende-git-de-manera-sencilla-git-flow/) y diga en clases que conclusiones puede tener del artículo.
+
+Habla de las ramas de gitflow, comandos basicos
 
 42. Lea el artículo [The Ultimate Yarn vs NPM Comparison of 2023](https://www.copycat.dev/blog/yarn-vs-npm/#:~:text=flexibility%2C%20and%20features.-,Conclusion,security%2C%20and%20offline%20mode%20capabilities.) y diga en clases que conclusiones puede tener del artículo.
 
+Yarn y npm usan un archivo package.json para administrar las dependencias de un proyecto. Sin embargo, Yarn ofrece una forma más eficiente y determinista de operar paquetes mediante el uso de un archivo de bloqueo (yarn.lock) para realizar un seguimiento de las versiones exactas instaladas.
+
 43. Vea el video [NPM vs Yarn | Which is the best Package Manager?](https://www.youtube.com/watch?v=0DGClZD5LEM&ab_channel=CleverProgrammer) y diga en clases que conclusiones puede tener del video.
+
+El video apoya usar Yarn, ya que dice que npm tiene problemas de seguridad, consistencia y bajo rendimiento, no tiene modo offline , mientras que yarn tiene seguridad avanzada, mejor estabilidad, es de de mayor velocidad, tiene modo offline, es mas eficiente, tiene garantias en su instalacion, puedes instalarlo en el cache local, tiene una comunidad activa, 
 
 44. Vea el video [Use NPM Based App with Yarn | NPM to Yarn Easy Migration](https://www.youtube.com/watch?v=i34lGjfrnVs&ab_channel=WebStylePress) y diga en clases que conclusiones puede tener del video.
 
+NO SE LE ENTENDIO NADA
+
+¿Puedes usar Yarn con NPM? Si un proyecto usa npm, ¿puede usarlo con Yarn en su lugar? ¿Es necesaria la migración de NPM a Yarn? NPM e Yarn son administradores de paquetes y ambos se pueden usar para administrar dependencias en una aplicación basada en Node. Si las dependencias de un proyecto son administradas por npm, ¿puede usar el administrador de paquetes Yarn para administrar las dependencias en lugar de npm? ¿Los comandos de Yarn son diferentes a npm? ¿Necesitará aprender el administrador de paquetes Yarn incluso si está familiarizado con npm?
+
 45. Lea el artículo [Cheat Sheet: npm vs Yarn Commands](https://www.digitalocean.com/community/tutorials/nodejs-npm-yarn-cheatsheet) y diga en clases que conclusiones puede tener del artículo.
+
+Es una chuleta de comandos  npm frente a hilo y los comandos de yarn
 
 46. Lea el artículo [NPM vs Yarn Cheat Sheet](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc) y diga en clases que conclusiones puede tener del artículo.
 
+HOJA DE TRUCOS de yarn, hilo.
+
+![Alt text](image-1.png)
+
 47. Vea el video [yarn vs npm install](https://www.youtube.com/watch?v=ToW1WJne53Q&ab_channel=MostafaGaafar) y diga en clases que conclusiones puede tener del video.
+
+Instalar los mismos archivos package.json con yarn vs npm
 
 ## Práctica
 
 1. Realice el ejercicio [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=false) del portal [HackerRank](https://www.hackerrank.com/dashboard).
+
 2. Haga los `ejercicios del 8 al 10` de los apartados de [c](https://www.hackerrank.com/domains/c), [c++](https://www.hackerrank.com/domains/cpp), [java](https://www.hackerrank.com/domains/java), [python](https://www.hackerrank.com/domains/python), [Ruby](https://www.hackerrank.com/domains/ruby), [SQL](https://www.hackerrank.com/domains/sql), [Linux shell](https://www.hackerrank.com/domains/shell), del portal [HackerRank](https://www.hackerrank.com/dashboard).
+
 3. Crea tu resume haciendo uso de la [plantilla](https://docs.google.com/document/d/1jfUa4HGBDjt2peJPQ0Wg1YhdGkCoSysS6QMT4u8bCic/edit?usp=sharing).
+
 4. Termine los retos plasmados en los ejercicios del `1` al `63` de [Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/), del apartado `Learn HTML Forms by Building a Registration Form` del portal [freeCodeCamp](https://www.freecodecamp.org/learn/).
+
 5. Realizar los ejercicios del portal o aplicativo [Duolingo](https://www.duolingo.com/learn) de la `sección 10` del idioma `inglés`.
