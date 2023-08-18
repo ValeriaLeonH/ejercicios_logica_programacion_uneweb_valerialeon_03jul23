@@ -273,7 +273,7 @@ OJO OJO OJO OJO
 
 34. Lea el artículo [Image file type and format guide](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types#providing_image_fallbacks) y diga en clases que conclusiones puede tener del artículo.
 
-Es una guia de tipos de imagenes, formato, dimensiones, etc
+Es una guia de tipos de imagenes, formato, dimensiones, etc, soportado por web browser
 
 35. Conteste las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-links-and-images#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 
@@ -301,7 +301,7 @@ Los enlaces a otras páginas dentro de nuestro propio sitio web se denominan enl
 
 -¿Qué elemento se utiliza para mostrar una imagen? <img> con un atributo src="link"
 
--¿Qué dos atributos siempre deben tener las imágenes? src
+-¿Qué dos atributos siempre deben tener las imágenes? src y alt 
 
 -¿Cómo se accede a un directorio principal en una ruta de archivo?
 
@@ -317,7 +317,8 @@ REPETIDO
 
 37. Lea el artículo [Cómo ver una versión antigua de una web: con la cache de Google y Archive.org](https://www.xataka.com/basics/como-ver-version-antigua-web-cache-google-archive-org) y diga en clases que conclusiones puede tener del artículo.
 
-EL ARTICULO ESTABA VACIO 
+Todo lo que se hace en internet se guarda, acceder a versiones antiguas mediante la cache de google o wayback machine.
+
 
 38. Lea el artículo [links and images](https://web.archive.org/web/20230601123733/https://internetingishard.netlify.app/html-and-css/links-and-images/) y diga en clases que conclusiones puede tener del artículo.
 

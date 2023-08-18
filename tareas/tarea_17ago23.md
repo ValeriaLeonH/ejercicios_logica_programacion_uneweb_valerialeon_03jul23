@@ -78,7 +78,7 @@ El video habla de como escribir mensajes de conventional commit como un pro:
 
 -Tener un mensaje muy claro del ultimo paso que se estaba haciendo, comentario importante u otro
 -El mensaje debe ser de 50 caracteres, para ser un mensaje perfecto
--
+-Como generar un chain lock
 
 12. Realiza las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-commit-messages#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
