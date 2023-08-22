@@ -37,7 +37,7 @@ El selector de grupos: cuando las propiedades se repiten en dos grupos, se hace 
   background-color: black;
 }
 
-Selectores de encadenamiento: Otra forma de usar los selectores es encadenarlos como una lista sin ninguna separación
+Selectores de encadenamiento: Otra forma de usar los selectores es encadenarlos como una lista sin ninguna separación, para que sea de dos tipo, .x1.x2 --> tienen que ser los dos, si solo es uno no cumple
 
 4. Lea el artículo [Properties to get started with](https://www.theodinproject.com/lessons/foundations-intro-to-css#properties-to-get-started-with) y diga en clases que conclusiones puede tener del artículo.
 
@@ -69,7 +69,7 @@ ALTO Y ANCHO DE IMG
 
 -colores RGB: rgb(red, green, blue)
 
--colores RGBA: rgba(red, green, blue, alpha),Los valores de color RGBA son una extensión de los valores de color RGB con un canal alfa, que especifica la opacidad del objeto.
+-colores RGBA: rgba(red, green, blue, alpha),Los valores de color RGBA son una extensión de los valores de color RGB con un canal alfa de 0.0 a 1, que especifica la opacidad del objeto.
 
 -Colores HSL: hsl(hue, saturation, lightness), HSL significa tono, saturación y luminosidad, y representa una representación de colores en coordenadas cilíndricas.Ejemplo:  hsl(120, 100%, 50%)
 
@@ -77,7 +77,7 @@ ALTO Y ANCHO DE IMG
 
 -Nombres de colores predefinidos/entre navegadores: ya estan predeterminados, ejemplo green, red, blue, black
 
--con la currentcolor palabra clave: La currentcolorpalabra clave se refiere al valor de la propiedad de color de un elemento.
+-con la currentcolor palabra clave: La currentcolor palabra clave se refiere al valor de la propiedad de color de un elemento.
 
 
 6. Lea el artículo [Adding CSS to HTML](https://www.theodinproject.com/lessons/foundations-intro-to-css#adding-css-to-html) y diga en clases que conclusiones puede tener del artículo.
@@ -107,7 +107,7 @@ Se colocan los dos selectores separados con coma, luego se coloca como normalmen
 
 -Dado un elemento que tiene una identificación de title y una clase de primary, ¿cómo usaría ambos atributos para una sola regla?
 
-.title.primary{
+#title, .primary{
   color: red;
 }
 
@@ -116,7 +116,7 @@ Se colocan los dos selectores separados con coma, luego se coloca como normalmen
 Los combinadores nos permiten combinar varios selectores de forma diferente a agruparlos o encadenarlos, Un combinador descendiente solo hará que se seleccionen elementos que coincidan con el último selector si también tienen un antepasado 
 
 Formula: 
-.padre.hijo{
+.padre .hijo{
   propiedades:valor;
 }
 
@@ -140,7 +140,6 @@ ES un glosario de css que habla de valores, unidades, dimensiones, imagenes, ele
 
 10. Lea el artículo [An interactive Scrim](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) y diga en clases que conclusiones puede tener del artículo.
 
-REPETIDO
 
 11. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-intro-to-css#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
