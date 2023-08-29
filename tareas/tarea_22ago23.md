@@ -75,7 +75,7 @@ Hablan de las fuentes mas seguras para usar en webs:
 
 Entre una regla que usa un selector de clase y una regla que usa tres selectores de tipo, ¿qué regla tiene la mayor especificidad?
 
-Tiene mayor especificidad el de tres electores de tipo, ya que sal ser mas selectores que el otro selector, se le da prioridad
+el que tiene mas especificidad en el de clase 
 
 8. Lea el artículo [Additional resources](https://www.theodinproject.com/lessons/foundations-the-cascade#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
