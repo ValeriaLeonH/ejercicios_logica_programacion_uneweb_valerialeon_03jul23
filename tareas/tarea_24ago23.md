@@ -44,13 +44,13 @@ padding, border, margin
 
 - ¿Cuál es la diferencia entre el modelo de caja estándar y alternativo?
 
-*Al estandar ya tiene unos atributos asignados que son inline-sizey y block-size(o width y height),
+*Al estandar ya tiene unos atributos asignados que son inline-size y block-size(o width y height),
 
 *En el modelo de cuadro alternativo, cualquier ancho es el ancho del cuadro visible en la página.  configúrelo box-sizing: border-box:
 
 - ¿Usarías margin o padding para crear más espacio entre 2 elementos?
 
-usaria mnargin
+usaria margin
 
 - ¿Usarías margin o padding para crear más espacio entre el contenido de un elemento y su borde?
 
