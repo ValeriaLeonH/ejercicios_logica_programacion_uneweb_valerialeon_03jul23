@@ -126,6 +126,28 @@ flex-direction
 -justify-content
 -align-items
 
+Explica también que son:
+
+Display: Flex (lo usas para compactar el contenido de un elemento en el menor número de líneas posible[por ejemplo si tienes una lista en vertical display Flex te la va a poner en horizontal])
+
+Width: max/min-content (sirven para determinar la cantidad de texto por línea[por ejemplo con min por línea cada línea es una palabra]) 
+
+Flex-shrink: 0 {por defecto} ( saves cuando tienes el buscador en modo ventana y le cambias las dimensiones, y conforme más chico lo haces, se va reordenando para adaptarse a esas dimensiones ??, Bueno este comando es para eso mismo
+
+Gap: 1rem (es para añadir espacios en el display Flex)
+
+Flex grow: 0 {por defecto}( semejante que el shrink pero a la inversa) 
+
+Flex: 1 (cunado usas display Flex todo se transforma en columnas y estás pueden tener dimensiones diferentes, pues con Flex: 1 todas pasan a tener la misma dimensión) 
+
+Flex-basis: auto {por defecto} (es muy parecido al Flex pero este te permite ser más específico con las columnas) 
+
+Flex-direction: row {por defecto}/ column (este no entendí mucho pero es básicamente para determinar cómo colocar la columna (es decir si la quieres horizontal o vertical) 
+
+Justify-content (es para determinar cómo quieres el texto, centrado, con espacios entre etc )
+
+Align-items: strech {por defecto} (determina que tan grande es un elemento en base a su contenido, por ejemplo: si tienes tres Columnas pero una tiene más texto que otro y las tres tienen background color, el color se va a aplicar a cada columna tomando en cuenta cual es la más larga (siendo esa la altura máxima) sin embargo las otras dos se quedan con espacios de sobra, con este comando le quitas ese espacio que sobra align-items:flex-start; [con este lo haces])
+
 11. Lea el artículo [The flex property - Flexbox tutorial](https://scrimba.com/learn/flexbox/the-flex-property-flexbox-tutorial-cGNKJTv) y diga en clases que conclusiones puede tener del artículo.
 
 COmo colocar el display flex y como se veia, paso de estar vertical a estar en toda una lineaa
