@@ -52,6 +52,8 @@ es una chuleta de flexbox [cheatsheet](https://flexbox.malven.co/)
 7. Lea el artículo [Scrim on Flexbox axes](https://www.theodinproject.com/lessons/foundations-axes#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 
 Habla y muestra como se ve flex-directrion con valores row y column
+
+
 8. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-axes#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 
 ## Práctica
