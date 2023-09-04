@@ -35,7 +35,7 @@ flex-basis se refiere a height en lugar de width
 
 -En un row contenedor flexible, flex-basis ¿a qué se refiere?
 
-La razón de esto es que la taquigrafía flex se expande flex-basis a 0, lo que significa que todos flex-grow ing y flex-shrink ing comenzarían sus cálculos desde 0
+ hace referencia a width.
 
 -¿Por qué las dos preguntas anteriores tienen respuestas diferentes?
 
@@ -51,7 +51,7 @@ es una chuleta de flexbox [cheatsheet](https://flexbox.malven.co/)
 
 7. Lea el artículo [Scrim on Flexbox axes](https://www.theodinproject.com/lessons/foundations-axes#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 
-Habla y muestra como se ve flex-directrion con valores row y column
+Habla y muestra como se ve flex-direction con valores row y column
 
 
 8. Realiza todas las actividades de [Additional resources](https://www.theodinproject.com/lessons/foundations-axes#additional-resources) y diga en clases que conclusiones puede tener del artículo.

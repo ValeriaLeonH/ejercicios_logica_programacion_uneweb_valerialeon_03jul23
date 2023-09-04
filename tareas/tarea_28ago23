@@ -50,9 +50,9 @@ REPETIDO
 8. Responda las preguntas de [Knowledge check](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#knowledge-check) y diga en clases que conclusiones puede tener del artículo.
 
 -¿Cuál es la diferencia entre un contenedor flexible y un artículo flexible?
-El contenedor flexible contiene al elemento flexible
+El contenedor flexible (tiene display: flex;) contiene al elemento flexible
 
--¿Cómo se crea un elemento flexible? colocando la propiedad display: flex
+-¿Cómo se crea un elemento flexible? colocando varios div, h, etc (elementos flex) dentro de un div container (en contenedor flex) 
 
 9. Lea el artículo [flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/index.html) y diga en clases que conclusiones puede tener del artículo.
 
@@ -100,12 +100,12 @@ Se utiliza align-itemspara definir la alineación vertical de los elementos.
 Úselo flex-directionsi necesita columnas en lugar de filas.
 Utilice los valores row-reverseo column-reversepara invertir el orden de los elementos.
 Úselo orderpara personalizar el orden de los elementos individuales.
-Úselo align-selfpara alinear verticalmente elementos individuales.
-Úselo flexpara crear cajas flexibles que se puedan estirar y encoger.
+Úselo align-self para alinear verticalmente elementos individuales.
+Úselo flex para crear cajas flexibles que se puedan estirar y encoger.
 
 10. Lea el artículo [Scrim on Flexbox](https://scrimba.com/learn/flexbox/your-first-flexbox-layout-flexbox-tutorial-canLGCw) y diga en clases que conclusiones puede tener del artículo.
 
-COmo colocar el display flex y como se veia, paso de estar vertical a estar en toda una lineaa
+Como colocar el display flex y como se veia, paso de estar vertical a estar en toda una linea
 
 11. Realiza todas las actividades y vea el contenido de todos los links de [Additional resources](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#additional-resources) y diga en clases que conclusiones puede tener del artículo.
 

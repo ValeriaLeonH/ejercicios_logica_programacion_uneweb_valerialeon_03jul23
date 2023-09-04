@@ -5,6 +5,7 @@
 1. Lea el artículo [Growing and Shrinking](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking) y diga en clases que conclusiones puede tener del artículo.
 
 El articulo habla de flex-grow, flex-shrink y flex-basis, 
+
 2. Lea el artículo [Introduction](https://www.theodinproject.com/lessons/foundations-growing-and-shrinking#introduction) y diga en clases que conclusiones puede tener del artículo.
 
 Nos dice acerca de la propiedad flex: 1 
@@ -62,9 +63,9 @@ Hace que el elemento flexible sea flexible y establece la base flexible en cero,
 El articulo habla de 
 1. Las propiedades de flex :
 
-- flex-grow
-- flex-shrink
-- flex-basis
+- flex-grow: crecer
+- flex-shrink: encoje
+- flex-basis: defoult de tamano 
 
 2. SINTAXIS 
 
@@ -112,7 +113,7 @@ LO MISMO QUE DICE EN LA PREGUNTA 7.
 
 - ¿Cuáles son los 3 valores definidos en la flex propiedad abreviada (por ejemplo flex: 1 1 auto)?
 
-flex: 1 1 0 equivale  a flex-grow: 1, flex-shrink: 1, flex-basis: 0
+flex: 1 1 auto equivale  a flex-grow: 1, flex-shrink: 1, flex-basis: auto
  
 - ¿Cuáles son los 3 valores definidos para la taquigrafía flexible flex:auto? 
 
@@ -142,7 +143,7 @@ Flex: 1 (cunado usas display Flex todo se transforma en columnas y estás pueden
 
 Flex-basis: auto {por defecto} (es muy parecido al Flex pero este te permite ser más específico con las columnas) 
 
-Flex-direction: row {por defecto}/ column (este no entendí mucho pero es básicamente para determinar cómo colocar la columna (es decir si la quieres horizontal o vertical) 
+Flex-direction: row {por defecto}/ column ,este no entendí mucho pero es básicamente para determinar cómo colocar la columna (es decir si la quieres horizontal o vertical) 
 
 Justify-content (es para determinar cómo quieres el texto, centrado, con espacios entre etc )
 
