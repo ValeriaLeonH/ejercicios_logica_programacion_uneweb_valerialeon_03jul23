@@ -190,6 +190,7 @@ con let, const, var
 
 - ¿Cuál de las tres declaraciones de variables debería evitar y por qué?
 
+el var porque ya no se usa
 
 - ¿Qué reglas debes seguir al nombrar variables?
 
