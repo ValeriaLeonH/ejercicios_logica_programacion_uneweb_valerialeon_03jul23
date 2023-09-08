@@ -209,8 +209,8 @@ El operador restante %, a pesar de su apariencia, no está relacionado con porce
 El resultado de a % bes el resto de la división entera de apor b.
 
 - Explique la diferencia entre ==y ===.
-Cuando se utiliza el ==operador, x e y son iguales 
-Cuando se utiliza el ===operador, x e y no son iguales .
+Cuando se utiliza el ==operador, no hay restriccion de tipo
+Cuando se utiliza el ===operador, si hay restriccion de tipo
  
 - ¿ Cuándo recibirías un NaNresultado?
 
@@ -224,15 +224,19 @@ Intentar hacer aritmética con una cadena no numérica dará como resultado NaN(
 --	Decrement
 
 - Explique la diferencia entre operadores de incremento/decremento de prefijo y posfijo.
+  * Cuando el operador busca la variable, está en “forma de sufijo”: counter++.
+  * La “forma de prefijo” es cuando el operador va antes de la variable: ++counter.
 
+  counter++ , //postfixing
+  ++counter , //prefixing
 
 - ¿Qué es la precedencia de operadores y cómo se maneja en JS?
 Es el orden de prioridad de las operaciones matematicas
 
 Precedencia	Nombre	Firmar
 …	…	…
-14	unario más	+
-14	negación unaria	-
+14	unario más	+  //esto es de signo no de suma
+14	negación unaria	-  //esto es de signo no de suma
 13	exponenciación	**
 12	multiplicación	*
 12	división	/
@@ -252,7 +256,7 @@ Guarde y abra este archivo en un navegador web (¡puede usar "Live Server" en Vi
 console.log()es el comando para imprimir algo en la consola del desarrollador en su navegador. 
 
 - ¿Qué hace el operador unario más en las representaciones en cadena de números enteros? p.ej. +”10”
-
+Transforma la cadena de caracteres en numeros
 
 15. Realiza todas las actividades de [The old "var"](https://javascript.info/var) y diga en clases que conclusiones puede tener del artículo.
 
