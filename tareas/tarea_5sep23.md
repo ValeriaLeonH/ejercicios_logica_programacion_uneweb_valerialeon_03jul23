@@ -45,7 +45,7 @@ Dentro de una plantilla literal, puede incluir variables o expresiones de JavaSc
 
 - CONCATENACION EN CONTEXTO  ??
 
-- INCLUIR ECPRESIONES EN CADENAS
+- INCLUIR EXPRESIONES EN CADENAS
 
   const song = "Fight the Youth";
   const score = 9;
@@ -206,15 +206,16 @@ En JavaScript están escritos así:
 
 10. Lea el artículo [JavaScript if, else, and else if](https://www.w3schools.com/js/js_if_else.asp) y diga en clases que conclusiones puede tener del artículo.
 
-
-11. Lea el artículo [Logical operators](https://javascript.info/logical-operators) y diga en clases que conclusiones puede tener del artículo.
-
 EL ARTICULO HABLA SOBRE DECLARACIONES CONDICIONALES:
 
 - Úse ifpara especificar un bloque de código que se ejecutará, si una condición especificada es verdadera
 - Úse elsepara especificar un bloque de código que se ejecutará, si la misma condición es falsa
 - Úse else ifpara especificar una nueva condición para probar, si la primera condición es falsa
 - Se utiliza switch para especificar muchos bloques alternativos de código que se ejecutarán.
+
+11. Lea el artículo [Logical operators](https://javascript.info/logical-operators) y diga en clases que conclusiones puede tener del artículo.
+
+|| (OR), && (AND), ! (NOT), ?? (Nullish Coalescing)
 
 12. Lea el artículo [Making decisions in your code — conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals) y diga en clases que conclusiones puede tener del artículo.
 
