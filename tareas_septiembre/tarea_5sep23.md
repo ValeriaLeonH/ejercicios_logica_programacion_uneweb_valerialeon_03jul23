@@ -315,14 +315,14 @@ PENDIENTE PENDIENTE PENDIENTE
 - Siete tipos de datos primitivos:
 numberpara números de cualquier tipo:       
   * enteros o de punto flotante, los números enteros están limitados por .±(253-1)
-  * bigintpara números enteros de longitud arbitraria.
-  * stringpara cuerdas. Una cadena puede tener cero o más caracteres; no existe un tipo de carácter único independiente.
-  * booleanpara true/ false.
-  * nullpara valores desconocidos: un tipo independiente que tiene un único valor null.
-  * undefinedpara valores no asignados: un tipo independiente que tiene un único valor undefined.
-  * symbolpara identificadores únicos.
+  * bigint para números enteros de longitud arbitraria.
+  * string para cuerdas. Una cadena puede tener cero o más caracteres; no existe un tipo de carácter único independiente.
+  * boolean para true/ false.
+  * null para valores desconocidos: un tipo independiente que tiene un único valor null.
+  * undefined para valores no asignados: un tipo independiente que tiene un único valor undefined.
+  * symbol para identificadores únicos.
 - Y un tipo de datos no primitivo:
-  * objectpara estructuras de datos más complejas.
+  * object para estructuras de datos más complejas.
 
 
 - ¿Qué tipo de datos NO es primitivo?
@@ -344,7 +344,7 @@ Usando ${ }, colocar las dos cadenas en constantes y llamarlas con ${ }
 
 - ¿Qué tipo de cita te permite incrustar variables/expresiones en una cadena?
 
-Dentro de una plantilla literal, puede incluir variables o expresiones de JavaScript dentro ${ }y el resultado se incluirá en la cadena
+Con ``
 
 - ¿Cómo se incrustan variables/expresiones en una cadena?
 colocar las dos cadenas en constantes y reescribirlas ambas juntas o concatenarlas con ${ }
