@@ -162,21 +162,125 @@ fruits.unshift("Lemon");
 
 8. Lea el artículo [Looping code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code) y diga en clases que conclusiones puede tener del artículo.
 
+EL ARTICULO HABLA DE COMO HACER LOOPS EN JAVASCRIPT
+
+- NOS HABLA DE QUE USAMOS LOOP CADA VES QUE QUERRAMOS HACER UNA ACCION REPETIDAS VECES, SIN TENER QUE REPETIR EL CODIGO TANTAS VECES. 
+
+- PARA RECORRER COLLECCIONES, EJEMPLO PARA RECORRER ARRAYS, SET O MAP 
+
+- bucle de tipo FOR ... OF
+    const cats = ["Leopard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"];
+
+  for (const cat of cats) {
+    console.log(cat);
+  }
+
+  EXPLICACION: Dada la colección cats, obtén el primer artículo de la colección.
+  Asígnalo a la variable caty luego ejecuta el código entre llaves {}.
+  Obtenga el siguiente artículo y repita (2) hasta llegar al final de la colección
+
+- map() and filter():
+  * Puede utilizar map()para hacer algo con cada elemento de una colección y crear una nueva colección que contenga los elementos modificados:
+
+  function toUpper(string) {
+  return string.toUpperCase();
+  }
+
+  const cats = ["Leopard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"];
+
+  const upperCats = cats.map(toUpper);
+
+  console.log(upperCats);
+  // [ "LEOPARD", "SERVAL", "JAGUAR", "TIGER", "CARACAL", "LION" ]
+
+  * Puede utilizar filter()para probar cada elemento de una colección y crear una nueva colección que contenga solo elementos que coincidan:
+
+  function lCat(cat) {
+  return cat.startsWith("L");
+  }
+
+  const cats = ["Leopard", "Serval", "Jaguar", "Tiger", "Caracal", "Lion"];
+
+  const filtered = cats.filter(lCat);
+
+  console.log(filtered);
+  // [ "Leopard", "Lion" ]
+
+- EL ESTANDAR PARA LOOP 
+  for (initializer; condition; final-expression) {
+  // code to run
+  }
+
+- SALIR DE UN BUBLE con break;Si desea salir de un bucle antes de que se hayan completado todas las iteraciones, puede utilizar la instrucción break; una breakdeclaración saldrá inmediatamente del bucle y hará que el navegador pase a cualquier código que le siga.
+
+- SALTAR ITERACIONES CON continue: La instrucción continue funciona de manera similar a break, pero en lugar de salir del ciclo por completo, salta a la siguiente iteración del ciclo. 
 
 9. Lea el artículo [Loops: while and for](https://javascript.info/while-for) y diga en clases que conclusiones puede tener del artículo.
 
+HABLA DE LOS CICLOS, LOOPS WHILE Y FOR:
+
+- WHILE: Si bien conditiones verdadero, codese ejecuta el cuerpo del bucle.
+
+while (condition) {
+  // code
+  // so-called "loop body"
+}
+
+- DO ... WHILE:
+do {
+  // loop body
+} while (condition);
+
+- FOR : 
+
+for (begin; condition; step) {
+  // ... loop body ...
+}
+
+- BREAK: Normalmente, un bucle sale cuando su condición se vuelve falsa. Pero podemos forzar la salida en cualquier momento utilizando la breakdirectiva especial.
+
+- CONTINUE: La continue directiva es una “versión más ligera” de break. No detiene todo el ciclo. En cambio, detiene la iteración actual y obliga al bucle a iniciar una nueva (si la condición lo permite).
+
+- UTILIZANDO OPERADOR TERNARIO: 
+if (i > 5) {
+  alert(i);
+} else {
+  continue;
+}
+
+SINTAXIS: 
+(i > 5) ? alert(i) : continue; // continue isn't allowed here
+
+
+NOTAS :
+
+- while– La condición se verifica antes de cada iteración.
+
+- do..while– La condición se verifica después de cada iteración.
+
+- for (;;)– La condición se verifica antes de cada iteración, configuraciones adicionales disponibles.
+
+- Para hacer un bucle “infinito”, normalmente while(true)se utiliza la construcción. Este bucle, como cualquier otro, puede detenerse con la breakdirectiva.
+
+- Si no queremos hacer nada en la iteración actual y queremos pasar a la siguiente, podemos usar continue 
+
+- break/continue etiquetas de soporte antes del bucle. Una etiqueta es la única forma de break/continueescapar de un bucle anidado para ir a uno externo.
 
 10. Lea el artículo [Tasks](https://javascript.info/while-for#tasks) y diga en clases que conclusiones puede tener del artículo.
 
 
 11. Lea el artículo [Test Driven Development](https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#test-driven-development) y diga en clases que conclusiones puede tener del artículo.
 
+EL ARTICULO HABLA DE Test Driven Development (TDD), Se refiere a la práctica de escribir pruebas automatizadas que describen cómo debería funcionar su código antes de escribirlo.
+
 
 12. Lea el artículo [javascript-exercises](https://github.com/TheOdinProject/javascript-exercises) y diga en clases que conclusiones puede tener del artículo.
 
+EJERCICIOS DE JAVASCRIPT
 
 13. Lea el artículo [README.md](https://github.com/TheOdinProject/javascript-exercises#readme) y diga en clases que conclusiones puede tener del artículo.
 
+EL ARTICULO HABLA DE COMO HACER LOS EJERCICIOS COMPLEMENTARIOS DE THE ODIN PROJECT, EXPLICA COMO TRUNCAR Y DEPURAR
 
 14. Realiza todas las actividades de [Assignment](https://www.theodinproject.com/lessons/foundations-fundamentals-part-4#assignment) y diga en clases que conclusiones puede tener del artículo.
 
