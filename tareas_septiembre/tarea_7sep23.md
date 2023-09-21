@@ -187,7 +187,7 @@ Fuera de la funcion debemos colocar let result = nombre_dela_funcion(o_que_se_qu
 return result;
 
 - ¿Qué son las funciones anónimas?
-SOn las que no tiene nombre 
+Son las que no tiene nombre 
 
 - ¿Qué es el alcance de la función?
 pueden tener alcance local  dentro de la funcion o global, fuera de la funcion 
